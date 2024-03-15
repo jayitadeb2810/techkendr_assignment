@@ -1,0 +1,13 @@
+/* .firstImage {
+  background-image: url("/images/heroImage1.png");
+} */
+
+/* firstImage */
+
+.home {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
